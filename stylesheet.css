@@ -1,0 +1,22 @@
+body {
+    background-color: #d20909;
+    font-family: Trebuchet Verdana, Arial, serif;
+  }
+  h1 {
+      color: rgb(43, 13, 211);;
+  }
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+  .answer {
+    border: 2px solid #fff;
+}
+  .right {
+    border-color: #090;
+    color: #090;
+}
+.wrong {
+    border-color: #900;
+    color: #900;
+}
