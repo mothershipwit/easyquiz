@@ -1,6 +1,8 @@
 body {
-    background-color: #d20909;
-    font-family: Trebuchet Verdana, Arial, serif;
+    background-color: #17f1f8;
+    font-family: url(https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap);
+    font-family: 'Henny Penny';
+    content: '\e8b9';
   }
   h1 {
       color: rgb(43, 13, 211);;
@@ -8,15 +10,16 @@ body {
 .selector-for-some-widget {
     box-sizing: content-box;
   }
-
-  .answer {
+.answer {
     border: 2px solid #fff;
 }
   .right {
     border-color: #090;
     color: #090;
+    content: '\2193';
 }
 .wrong {
     border-color: #900;
     color: #900;
+    content: '\2191';
 }
